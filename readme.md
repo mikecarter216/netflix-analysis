@@ -5,7 +5,7 @@
 - **Date:** November 1, 2025  
 - **Selected Module:** Data Analysis  
 - **GitHub Repository:** [https://github.com/mikecarter216/netflix-analysis](https://github.com/mikecarter216/netflix-analysis)  
-- **Video Link:** [https://youtu.be/example](#)
+- **Video Link:** [https://www.loom.com/share/126225f68175488bbfa4bdfaf313f7ce](#)
 
 ---
 
